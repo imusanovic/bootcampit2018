@@ -1,0 +1,3 @@
+ivan 17
+pero 0
+pero -50mirko -200
